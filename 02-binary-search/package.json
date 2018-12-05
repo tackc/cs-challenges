@@ -1,0 +1,15 @@
+{
+  "name": "02-binary-search",
+  "version": "1.0.0",
+  "description": "Binary search lesson and exercise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test node_modules/mocha/bin/mocha"
+  },
+  "author": "General Assembly",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
